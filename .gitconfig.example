@@ -1,0 +1,16 @@
+[user]
+  name = AUTOR NAME
+  email = EMAIL
+
+[core]
+  editor = subl -n -w
+  excludesfile = ~/.gitignore_global
+
+[init]
+  defaultBranch = main
+
+[alias]
+  alias lg="log --pretty='%Cred%h%Creset | %C(yellow)%d%Creset %s %Cgreen(%cr)%Creset %C(cyan)[%an]%Creset' --graph --all"
+
+[push]
+  default = simple
