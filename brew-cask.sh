@@ -74,3 +74,5 @@ brew install --cask keybase
 # Password manager app
 brew install --cask keepassxc
 brew install --cask cryptomator
+
+brew install --cask devutils

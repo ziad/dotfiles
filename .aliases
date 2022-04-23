@@ -27,7 +27,7 @@ alias week='date +%V'
 # Get macOS Software Updates, and update Homebrew, npm, and their installed packages
 alias update_brew='brew update; brew upgrade; brew cleanup; brew doctor'
 alias update_npm='npm -g cache clean; npm install npm -g; npm update -g'
-alisa update_sys='sudo softwareupdate -i -a'
+alias update_sys='sudo softwareupdate -i -a'
 alias update_all='update_sys; update_brew; update_npm'
 
 # Show/hide hidden files in Finder
