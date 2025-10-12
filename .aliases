@@ -1,3 +1,7 @@
+# AWS: Shorten the docker run command
+# For access to the host file system and configuration settings when using aws commands, we mount via -v
+# alias aws='docker run --rm -it -v ~/.aws:/root/.aws -v $(pwd):/aws public.ecr.aws/aws-cli/aws-cli'
+
 
 alias ll="ls -alh"
 

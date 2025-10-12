@@ -18,7 +18,7 @@ brew install --cask libreoffice
 
 # Note taking and to-do application with synchronization capabilities
 brew install --cask joplin
-brew install --cask evernote
+# brew install --cask evernote
 
 brew install --cask dropbox
 brew install --cask owncloud
@@ -26,7 +26,7 @@ brew install --cask owncloud
 # brew install --cask virtualbox
 # brew install --cask vagrant
 brew install --cask docker
-brew install --cask ganache
+# brew install --cask ganache
 brew install --cask ngrok
 
 # Move and resize windows in macOS using keyboard

@@ -13,3 +13,5 @@ brew install composer
 
 # A collection of simplified and community-driven man pages.
 brew install tldr
+# Python package and project manager (https://docs.astral.sh/uv/)
+brew install uv
