@@ -15,3 +15,7 @@ brew install composer
 brew install tldr
 # Python package and project manager (https://docs.astral.sh/uv/)
 brew install uv
+
+# The figlet command is used to draw stylised ASCII banners. Example: figlet "Linux Rocks"
+brew install figlet
+
