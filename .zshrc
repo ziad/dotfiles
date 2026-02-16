@@ -107,3 +107,5 @@ export EDITOR='code'
 # my aliases, functions are in the ~/.aliases, ~/.functions files. load them here.
 [[ -f "$HOME/.aliases" ]] && source "$HOME/.aliases"
 [[ -f "$HOME/.functions" ]] && source "$HOME/.functions"
+# Added by Antigravity
+export PATH="/Users/ziadhakim/.antigravity/antigravity/bin:$PATH"

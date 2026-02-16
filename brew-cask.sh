@@ -76,3 +76,7 @@ brew install --cask keepassxc
 brew install --cask cryptomator
 
 brew install --cask devutils
+
+# TRex captures any text right into your Clipboard with magic of OCR.
+brew install --cask trex
+
