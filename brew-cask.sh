@@ -10,8 +10,7 @@ brew install --cask firefox
 brew install --cask opera
 
 brew install --cask visual-studio-code
-brew install --cask sublime-text
-brew install --cask macdown
+#brew install --cask sublime-text
 # brew install --cask notion
 brew install --cask libreoffice
 # brew install --cask kindle
@@ -57,7 +56,7 @@ brew install --cask loopback
 # Metadata cleaner
 brew install --cask exifcleaner
 
-brew install --cask alfred
+#brew install --cask alfred
 brew install --cask postman
 brew install --cask cyberduck
 brew install --cask drawio
@@ -80,3 +79,9 @@ brew install --cask devutils
 # TRex captures any text right into your Clipboard with magic of OCR.
 brew install --cask trex
 
+# md opensource editor
+# https://github.com/MarkEdit-app/MarkEdit
+brew install --cask markedit
+
+# other macdown edito
+brew install --cask macdown-3000
